@@ -1,0 +1,16 @@
+.Home {
+    position: relative;
+    display: block;
+}
+.Home img {
+    width: 100%;
+}
+.center-bg {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.carousel {
+    text-align: center;
+}

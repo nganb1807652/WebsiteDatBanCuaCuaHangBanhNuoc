@@ -1,0 +1,43 @@
+/* * {
+  font-family: 'Roboto', sans-serif;
+}
+
+.nav-bar {
+  position: relative;
+  display: flex;
+  width :100%;
+  background-color: #232a34;
+}
+.nav-bar img {
+  margin-left: 20px ;
+  width: 40px;
+}
+.nav-bar a  {
+  padding: 15px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #fff;
+  margin-left: 20px;
+  font-weight: 500;
+}
+.nav-bar ul {
+  display: flex;
+  
+}
+.nav-bar ul li {
+  
+  text-decoration: none;
+  color: #fff;
+  list-style: none;
+}
+.nav-bar ul li a {
+  font-size: 16px;
+  font-weight: 600;
+}
+.nav-bar ul li input {
+  width: 300px;
+  padding: 5px;
+  margin-top: 10px;
+  margin-left: 200px ;
+}
+ */

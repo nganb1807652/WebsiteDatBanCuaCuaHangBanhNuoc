@@ -1,0 +1,101 @@
+
+.reservations-wrap{
+    /* padding: 100px 100px 0 100px ; */
+    MARGIN: 0 AUTO;
+    WIDTH: 1000px;
+    /* border: 1px solid red; */
+}
+.reservations-wrap h4{
+    text-align: center;
+    color: #614430;
+    
+}
+.reservations-wrap .text{
+   color: #309f52;
+   /* font-family: 'Caveat', cursive; */
+   /* font-family: 'Caveat', cursive;
+   font-family: 'Cookie', cursive; */
+   font-family: 'Parisienne', cursive;
+   font-size: 20px;
+   text-align: center;
+  
+}
+.reservations-middle{
+   
+    height: 390px;
+    display: flex;
+    
+}
+.reservations-middle-left{
+    border: 1px solid #ebebeb;
+    width: 35%;
+    margin-right: 5px;
+    background-color: #f7f7f7;
+    height: 230px;
+    border-radius: 5px;
+}
+.reservations-middle-right{
+    border: 1px solid #ebebeb;
+    width: 65%;
+    height: fit-content;
+    margin-left: 5px;
+    background-color: #f7f7f7;
+    border-radius: 5px;
+   
+}
+.table {
+  
+    width: auto;
+
+}
+
+.table img {
+  
+    width: 140px;
+    height: 140px;
+    /* border: 1px solid #1f87a7; */
+    
+}
+.table button{
+    margin: 0px;
+    padding: 0px;
+  
+    
+    
+}
+.col-sm-4 {
+    padding-bottom: 0px;
+    
+}
+
+.date, .time, .room{
+    display: flex;
+    padding-top: 20px;
+    align-items: center;
+ 
+    
+    
+}
+.date h6, .time h6, .room h6 {
+    font-size: 12px;
+    font-weight: 600;
+    margin-left: 10px;
+    width: 50px;
+}
+.reservations-middle-left  .rr{
+    color: #614430;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 20px;
+
+    
+}
+h6{
+    color: #614430;
+}
+.reservations-middle-left  .btn-time{
+    width: 50px;
+    height: 30px;
+    font-size: 10px;
+    margin-right: 4px;
+}

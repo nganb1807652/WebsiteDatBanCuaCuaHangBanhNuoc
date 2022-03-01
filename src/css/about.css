@@ -1,0 +1,143 @@
+body {
+    margin: 0 auto;
+    padding: 0;
+}
+.about-us h2 {
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 28px;
+    color: #614430;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    font-weight: 400;
+    
+}
+.sub-about {
+    text-align: center;
+    font-family: "Open Sans";
+    font-size: 18px;
+    color: #777777;
+    margin-bottom: 60px;
+}
+
+/* about-content1 */
+.about-content1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+.about-left1 {
+    width: 50%;
+    
+}
+.about-left1 h2 {
+    /* font-family: "Yellowtail", serif; */
+    font-family: 'Yellowtail', cursive;
+    font-size: 58px;
+    color: #309f52;
+    margin-bottom: 30px;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+.about-left1 p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    color: #777777;
+    margin-bottom: 40px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+
+.about-right1 {
+    width: 40%;
+    position: relative;
+
+}
+.about-right1 img {
+    width: 80%;
+    height: 450px;
+    margin-left: 100px;
+}
+
+/* about_content2 */
+.about-content2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.about-left2 {
+    width: 50%;
+    
+}
+
+.about-left2 p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    color: #777777;
+    margin-bottom: 40px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+
+.about-right2 {
+    width: 40%;
+    position: relative;
+
+}
+.about-right2 img {
+    width: 80%;
+    height: 450px;
+    margin-right: 100px;
+}
+
+
+
+/* about-content3 */
+.about-content3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.about-left3 {
+    width: 50%;
+    
+}
+.about-left1 h3 {
+    /* font-family: "Yellowtail", serif; */
+    font-family: 'Yellowtail', cursive;
+    font-size: 58px;
+    color: #309f52;
+    margin-bottom: 30px;
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+}
+.about-left3 p {
+    font-family: "Open Sans", sans-serif;
+    font-size: 13px;
+    color: #777777;
+    margin-bottom: 40px;
+    line-height: 30px;
+    font-weight: 400;
+}
+
+
+.about-right3 {
+    width: 40%;
+    position: relative;
+
+}
+.about-right3 img {
+    width: 80%;
+    height: 430px;
+    margin-left: 100px;
+}

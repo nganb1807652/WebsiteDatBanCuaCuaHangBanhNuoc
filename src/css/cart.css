@@ -1,0 +1,82 @@
+.myCart {
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+}
+.head {
+    text-align: center;
+    color: #614430;
+}
+.myCart-left {
+    width: 65%;
+    padding-left: 20px;
+}
+.myCart-left table {
+    width: 100%;
+}
+.myCart-left table tr  {
+    text-align: center;
+}
+.myCart-right .myCart-total {
+    border: 1px solid #e8e7e7;
+    height: 100%;
+    padding: 25px ;
+
+   
+    
+}
+.myCart-right .myCart-total .total{
+    margin-left: 160px;
+}
+.myCart-right .myCart-total .deliveryfree{
+    margin-left: 185px;
+}
+.myCart-right {
+    width: 30%;
+    padding-left: 50px;
+ 
+   
+}
+.myCart-right h6{
+    color: #be1b28;
+    text-align: center;
+    font-size: 18px;
+    margin: 0;
+}
+
+.myCart-right h1{
+    color: #614430;
+    font-size: 16px;
+    text-align: center;
+}
+.myCart-right .vat{
+    font-size: 13px;
+    font-style: italic;
+    text-align: center;
+}
+.myCart-right input{
+    width: 230px;
+    height: 42px;
+ 
+}
+
+.myCart-right-check{
+    width: 240px;
+    height: 52px;
+    border-radius: 30px;
+    background-color: black;
+    border: 1px solid rgb(139, 138, 138);
+    color: white;
+    font-size: 15px;
+  
+   
+}
+
+.myCart-right-check:hover{
+    background-color:  rgb(59, 59, 65);
+    color: rgb(255, 255, 255);
+}
+.myCart-right-enter:hover{
+    color: #be1b28;
+}
+

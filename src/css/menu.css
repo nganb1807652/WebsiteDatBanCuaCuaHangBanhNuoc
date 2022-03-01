@@ -1,0 +1,203 @@
+.link-page {
+    padding-left: 10%;
+    padding-right: 10%;
+}
+.link-page ul{
+    display: flex;
+    list-style: none;
+}
+.link-page ul li a{
+    font-size: 15px;
+}
+.border-product {
+    border-bottom: #ebebeb 1px solid;
+    width: 100%;
+    text-align: center;
+    display: block;
+    margin: 0 auto
+}
+.product{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-left: 10%;
+    /* padding-right: 10%; */
+}
+.product-left {
+    width: 18%;
+}
+.left1 .left1-img {
+    position: relative;
+    background: url(//bizweb.dktcdn.net/100/053/643/themes/830087/assets/bg-title.jpg?1627639981113) repeat-x center left #c69c6d;
+    margin-bottom: 30px;
+}
+.left1 .left1-title {
+    width: 100%;
+    font-family: "Roboto Slab","HelveticaNeue","Helvetica Neue",sans-serif;
+    margin: 0;
+    text-transform: none;
+    display: inline;
+    padding: 0px 20px;
+    position: relative;
+    font-size: 12px;
+    line-height: 40px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.left1 .left1-title span {
+    color: #fff;
+}
+.left2 ul {
+    list-style-type: none;
+    display: inline;
+    
+}
+.left2 ul li {
+    font-size: 14px;
+    border-bottom: 1px solid #f0ebe2;
+    line-height: 30px;
+}
+.left2 ul li a{
+    text-decoration: none ;
+    color: #c69c6d;
+}
+
+.dropdown .dropdown-ul{
+    display: block;
+    list-style: none;
+}
+.dropdown .dropdown-ul .dropdown-li {
+    font-size: 14px;
+    color: #c69c6d;
+    border-bottom: 1px solid #f0ebe2;
+    line-height: 30px;
+    cursor : pointer;
+}
+
+.left22 {
+    display: flex;
+    position: relative;
+    align-items: center;
+    border-bottom: 1px solid #f0ebe2;
+    margin-bottom: 20px;
+}
+.left22 img {
+    width: 30%;
+}
+.left2-content {
+    padding-left: 20px;
+    
+}
+.left2-content h3 {
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+    color: #252525;
+}
+.left2-content span {
+    line-height: 30px;
+    font-size: 12px;
+    font-weight: 400;
+    margin: 0;
+    color: #c69c6d;
+    
+}
+.left2-content h3:hover {
+    color:  #f0be86;
+}
+
+.product-right {
+    width: 75%;
+    /* margin-left: 30px; */
+    position: relative;
+    /* border: 1px solid red; */
+    
+}
+
+.product {
+    display: flex;
+    justify-content: center;
+    
+}
+.col-sm-4 {
+    padding-bottom: 20px;
+
+}
+.card-title {
+    color: #c69c6d;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+
+
+.middle {
+    transition: 0.5s ease;
+    opacity: 0;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    padding-top: 50%;
+  }
+  
+
+.container:hover .image {
+  opacity: 0.7;
+}
+
+.container:hover .middle {
+  opacity: 1;
+}
+
+.text {
+  color: rgb(48, 37, 14);
+  font-size: 15px;
+  
+} 
+                                    
+button.text{
+    width: 146px;
+    height: 38px;
+    border-radius: 5px;
+    border: 1px solid #f1c945;
+    background-color: #f1c945 ;
+    color: #fff;
+
+}
+
+button.text:hover {
+    border: 1px solid #f1c945;
+    background-color: #fff ;
+    transition: 0.3s ease;
+    color: #f1c945
+    
+}
+
+.foodter {
+ 
+    display: flex;
+    justify-content: center;
+}
+
+.add {
+    background-color: #dc3545 ;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 17px;
+    padding: 6px;
+    border: none;
+}
+.add:hover{
+    background-color: #ac212f ;
+
+}
+
+
+button.add {
+    width: 62px;
+    margin-top: 20px
+}

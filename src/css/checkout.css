@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.checkout-header{
+    text-align: center;
+   color: #614430;
+}
+.wrap-checkout{
+    display: flex;
+    justify-content: center;
+    /* padding: 30px 350px;*/
+    /* width: 1000px;     */
+    margin: 25px;
+}
+.checkout-left{
+width: 500px;
+border: 1px solid #e5e5e5;
+margin-right: 10px;
+background-color: rgb(237, 237, 238);
+}
+.checkout-left-label{
+    background-color: black;
+    font-weight: 600;
+    height: 45px;
+    color: white;
+    font-size: 14px;
+    width: 100%;
+    padding-top: 11px;
+    padding-left: 10px;
+    font-family: 'Heebo', sans-serif;
+}
+.checkout-left-label u, p,s{
+    padding-left: 10px;
+}
+.checkout-right{
+    width: 350px;
+    margin-left: 10px;
+    border: 1px solid #fcf3f3;
+    background-color: rgb(237, 237, 238);
+
+}
+.checkout-right-head{
+    font-family: 'Heebo', sans-serif;
+    background-color: rgb(71, 65, 65);
+    height: 45px;
+    color: white;
+    font-size: 14px;
+    font-weight: 600;
+    width: 100%;
+    padding-top: 11px;
+    padding-left: 10px;
+    border-bottom: 1px solid rgb(238, 232, 232)
+}
+.checkout-complete{
+    position: relative;
+    left: 425px;
+}
+.checkout-complete-button{
+   
+    width: 260px;
+    height: 50px;
+    border-radius: 30px;
+    background-color: black;
+    border: 1px solid rgb(139, 138, 138);
+    color: white;
+    right: 40px;
+    position: relative;
+}
+
+.checkout-complete-button:hover{
+   
+    background-color:  rgb(59, 59, 65);
+    color: rgb(255, 255, 255);
+}
